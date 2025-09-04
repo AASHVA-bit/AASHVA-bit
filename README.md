@@ -1,9 +1,7 @@
-
-
 # 👋 Hi, I'm Aashva
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Explorer;Building+useful+things+for+the+web" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Explorer;Tech+Enthusiast;Coding+is+My+Superpower" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,34 +14,33 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Aashva**, a passionate **Web Developer** and tech enthusiast who loves building meaningful and interactive web applications.  
-I enjoy exploring **AI**, **Cybersecurity**, and emerging technologies while constantly improving my skills.  
-My goal is to create solutions that are not just functional but also **helpful for real-world users**.
+Hey there! I'm **Aashva** — a passionate Web Developer, AI explorer, and cybersecurity enthusiast.  
+I love creating **interactive web applications** that solve real-world problems and empower users.  
+My journey is all about learning, building, and sharing innovative ideas with the tech community.
 
-- 🔭 Currently working on **CyberAware**, a cybersecurity education platform  
-- 🌱 Exploring **Full-Stack Development**, **AI** & **Cybersecurity**  
-- 💡 Always excited to learn, build, and share new ideas  
-- ⚡ Fun fact: I love automating small tasks and experimenting with new tools
+- 🔭 Currently building [CyberAware](https://github.com/AASHVA-bit/final), a cybersecurity education platform  
+- 🌱 Exploring Full-Stack Development, AI, and Cybersecurity  
+- 💡 Always eager to experiment and automate everyday tasks  
+- ⚡ Fun fact: I believe in making tech accessible and fun for everyone
+
+> "The best way to predict the future is to invent it." — Alan Kay
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <br/>
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <br/>
-  <!-- Backend/DB/Tools -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -58,9 +55,9 @@ My goal is to create solutions that are not just functional but also **helpful f
 
 **🛡️ CyberAware — Cybersecurity Education Platform**  
 Interactive tutorials, real-world scenarios & awareness tools.  
-**Stack:** React • Node.js • MySQL  
+**Stack:** React • Node.js • MySQL
 
-[![Open on GitHub](https://img.shields.io/badge/View%20Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AASHVA-bit)
+[![Open CyberAware Project](https://img.shields.io/badge/CyberAware%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AASHVA-bit/final)
 
 ---
 
