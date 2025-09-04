@@ -37,7 +37,7 @@ I'm a creative web developer and cybersecurity enthusiast on a mission to make t
 ## Recent Project
 
 Check out my latest project deployed on Vercel:  
-[CyberAware — Cybersecurity Education Platform](https://final-three-chi.vercel.app/)
+[CyberAware — Cybersecurity Education Platform](https://staysecure.vercel.app/)
 
 ---
 
