@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aashva
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I'm Aashva
 
 Welcome to my GitHub profile!
 
@@ -42,4 +42,3 @@ Check out my latest project deployed on Vercel:
 ---
 
 Thanks for visiting! 🚀  
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
