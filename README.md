@@ -1,3 +1,5 @@
+
+
 # 👋 Hi, I'm Aashva
 
 <p align="center">
@@ -9,6 +11,19 @@
   <img src="https://img.shields.io/github/followers/AASHVA-bit?style=for-the-badge&color=00D9FF" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Location-India%20🇮🇳-00D9FF?style=for-the-badge" alt="Location" />
 </p>
+
+---
+
+## 🙋‍♂️ About Me
+
+Hi! I'm **Aashva**, a passionate **Web Developer** and tech enthusiast who loves building meaningful and interactive web applications.  
+I enjoy exploring **AI**, **Cybersecurity**, and emerging technologies while constantly improving my skills.  
+My goal is to create solutions that are not just functional but also **helpful for real-world users**.
+
+- 🔭 Currently working on **CyberAware**, a cybersecurity education platform  
+- 🌱 Exploring **Full-Stack Development**, **AI** & **Cybersecurity**  
+- 💡 Always excited to learn, build, and share new ideas  
+- ⚡ Fun fact: I love automating small tasks and experimenting with new tools
 
 ---
 
@@ -35,7 +50,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -44,7 +58,7 @@
 
 **🛡️ CyberAware — Cybersecurity Education Platform**  
 Interactive tutorials, real-world scenarios & awareness tools.  
-**Stack:** React • Node.js • MySQL • Docker  
+**Stack:** React • Node.js • MySQL  
 
 [![Open on GitHub](https://img.shields.io/badge/View%20Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AASHVA-bit)
 
@@ -65,5 +79,4 @@ Interactive tutorials, real-world scenarios & awareness tools.
 
 <p align="center">
   <a href="https://github.com/AASHVA-bit"><img src="https://img.shields.io/badge/GitHub-AASHVA--bit-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aashva"><img src="https://img.shields.io/badge/LinkedIn-Aashva-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
